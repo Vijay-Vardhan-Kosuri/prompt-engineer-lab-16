@@ -1,0 +1,4 @@
+# Core evaluation needs only the standard library.
+# The following are used solely for generating the summary JPG images.
+Pillow>=10.0.0
+matplotlib>=3.7.0

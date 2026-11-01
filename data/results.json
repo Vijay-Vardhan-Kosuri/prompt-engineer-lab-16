@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "question": "What causes sea level rise?",
+      "faithfulness_a": 0.679,
+      "faithfulness_b": 0.775,
+      "relevancy_a": 0.86,
+      "relevancy_b": 0.94
+    },
+    {
+      "question": "How do renewable energy sources help mitigate climate change?",
+      "faithfulness_a": 0.72,
+      "faithfulness_b": 0.727,
+      "relevancy_a": 0.767,
+      "relevancy_b": 0.847
+    },
+    {
+      "question": "What is the role of the IPCC in climate science?",
+      "faithfulness_a": 0.73,
+      "faithfulness_b": 0.941,
+      "relevancy_a": 0.761,
+      "relevancy_b": 0.706
+    },
+    {
+      "question": "Why is the Arctic warming faster than the global average?",
+      "faithfulness_a": 0.793,
+      "faithfulness_b": 0.888,
+      "relevancy_a": 0.831,
+      "relevancy_b": 0.917
+    }
+  ],
+  "averages": {
+    "faithfulness_a": 0.7305,
+    "faithfulness_b": 0.83275,
+    "relevancy_a": 0.80475,
+    "relevancy_b": 0.8525
+  }
+}
